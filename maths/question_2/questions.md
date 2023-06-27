@@ -1,5 +1,5 @@
 ## 11+ Mock Examination: Mathematics
-Duration: 60 minutes
+Duration: 30 minutes
 
 ### Instructions
 1. Do not open this paper until you are told to do so.
